@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Dr. Keshav Sood"
-  uri         : "https://www.deakin.edu.au/about-deakin/people/keshav-sood"
+  name        : "Keshav Sood"
+  uri         : "http://keshavsood.com"
   email       : "keshav.sood2deakin.edu.au"
-  bio         : "PhD, Deakin University, Post-doctorate, The University of Newcastle"
+  bio         : "Dr. Keshav Sood."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+ # twitter     : "name"
+ # google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#Name2 Name2:
+#  name        : "Name2 Name2"
+ # email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+# twitter     : "name2"
+ # google_plus : "Name"
