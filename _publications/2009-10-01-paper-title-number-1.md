@@ -9,7 +9,7 @@ collection: Selected publications
 # citation: 'S. Yu, K. Sood and Y. Xiang, "An Effective and Feasible Traceback Scheme in Mobile Internet Environment," in IEEE Communications Letters, vol. 18, no. 11, pp. 1911-1914, Nov. 2014, doi: 10.1109/LCOMM.2014.2361864..'
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/6918391)
 ---
-#S. Yu, K. Sood and Y. Xiang, "An Effective and Feasible Traceback Scheme in Mobile Internet Environment," in IEEE Communications Letters, vol. 18, no. 11, pp. 1911-1914, Nov. 2014, doi: 10.1109/LCOMM.2014.2361864.
+S. Yu, K. Sood and Y. Xiang, "An Effective and Feasible Traceback Scheme in Mobile Internet Environment," in IEEE Communications Letters, vol. 18, no. 11, pp. 1911-1914, Nov. 2014, doi: 10.1109/LCOMM.2014.2361864.
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/6918391)
 
 
